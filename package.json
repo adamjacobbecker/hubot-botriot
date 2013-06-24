@@ -1,0 +1,22 @@
+{
+  "name": "hubot-botriot",
+  "version": "0.0.1",
+  "description": "Botriot scripts for hubot",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/botriot/hubot-botriot"
+  },
+  "keywords": [
+    "hubot",
+    "botriot"
+  ],
+  "author": "Botriot",
+  "license": "MIT",
+  "dependencies": {
+    "hubot": ">= 2.4.0"
+  }
+}
