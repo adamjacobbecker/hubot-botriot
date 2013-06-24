@@ -1,3 +1,5 @@
+# Author:
+#   botriot
 Fs   = require 'fs'
 Path = require 'path'
 
