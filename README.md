@@ -5,6 +5,7 @@ Porting all of the commands from http://botriot.com that Hubot doesn't have.
 ## Ported Commands
 
 - pivot
+- curse
 
 ## Commands TODO
 
@@ -14,12 +15,10 @@ with different names to avoid collisions with Hubot.
 - answer (Yahoo! Answers)
 - archive
 - curl
-- curse
 - eat (foodspotting, although Hubot has `yelp`)
 - eyebleach
 - kayne
 - lyrics (Hubot has one based on wikia, Botriot's is based on musixmatch)
-- math
 - movie (Hubot has imdb, Botriot has rotten tomatoes)
 - personality (Hubot has some, but missing these)
   - "I have no idea what I'm doing" dogs
